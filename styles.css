@@ -1,0 +1,9 @@
+/*body{
+    background-image:url(https://www.google.com/search?q=velvet+green&tbm=isch&ved=2ahUKEwiqyMq8mM37AhUrlv0HHd9ABfkQ2-cCegQIABAA&oq=velvet+green&gs_lcp=CgNpbWcQAzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQ6BAgAEEM6CQgAEIAEEAoQGFCbA1ixJWDfJ2gFcAB4AIABOogBiwaSAQIxNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=2bqCY-r3A6us9u8P34GVyA8&bih=944&biw=1920&rlz=1C5CHFA_enDE792DE793&hl=en-US#imgrc=ziyMmKarYuyH8M);
+}*/
+
+body{
+    background-image: url(./images/green-velvet);
+    color: goldenrod;
+    text-align: center;
+}
